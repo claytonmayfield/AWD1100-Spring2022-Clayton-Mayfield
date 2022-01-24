@@ -1,0 +1,9 @@
+C:\murach\C#\Book Applications\Chapter 16\ValidationLibrary\ValidationLibrary\bin\Debug\netcoreapp3.1\ValidationLibrary.deps.json
+C:\murach\C#\Book Applications\Chapter 16\ValidationLibrary\ValidationLibrary\bin\Debug\netcoreapp3.1\ValidationLibrary.dll
+C:\murach\C#\Book Applications\Chapter 16\ValidationLibrary\ValidationLibrary\bin\Debug\netcoreapp3.1\ValidationLibrary.pdb
+C:\murach\C#\Book Applications\Chapter 16\ValidationLibrary\ValidationLibrary\obj\Debug\netcoreapp3.1\ValidationLibrary.csprojAssemblyReference.cache
+C:\murach\C#\Book Applications\Chapter 16\ValidationLibrary\ValidationLibrary\obj\Debug\netcoreapp3.1\ValidationLibrary.AssemblyInfoInputs.cache
+C:\murach\C#\Book Applications\Chapter 16\ValidationLibrary\ValidationLibrary\obj\Debug\netcoreapp3.1\ValidationLibrary.AssemblyInfo.cs
+C:\murach\C#\Book Applications\Chapter 16\ValidationLibrary\ValidationLibrary\obj\Debug\netcoreapp3.1\ValidationLibrary.csproj.CoreCompileInputs.cache
+C:\murach\C#\Book Applications\Chapter 16\ValidationLibrary\ValidationLibrary\obj\Debug\netcoreapp3.1\ValidationLibrary.dll
+C:\murach\C#\Book Applications\Chapter 16\ValidationLibrary\ValidationLibrary\obj\Debug\netcoreapp3.1\ValidationLibrary.pdb
