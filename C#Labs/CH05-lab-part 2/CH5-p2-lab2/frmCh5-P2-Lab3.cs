@@ -12,7 +12,7 @@ namespace CH5_p2_lab2
 {
     public partial class Form1 : Form
     {
-        public Form1()
+        public Form()
         {
             InitializeComponent();
         }
