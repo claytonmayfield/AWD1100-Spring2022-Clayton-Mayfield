@@ -18,11 +18,25 @@ namespace CH5_p2_lab8
         {
             InitializeComponent();
         }
-        private int total;
+        int totalVowels = 0;
         private void btnEnter_Click(object sender, EventArgs e)
         {
-            
-            
+            string vowels = Convert.ToString(txtPhraseEnter.Text);
+
+            for (int i = 0; i < vowels.Length; i++)
+            {
+        if (vowels[i]  == 'a' || vowels[i] == 'e' || vowels[i] == 'i' || vowels[i] == 'o' || vowels[i] == 'u')
+                {
+                    totalVowels++;
+                }
+        else if (vowels[i] == 'A' || vowels[i] == 'E' || vowels[i] == 'I' || vowels[i] == 'O' || vowels[i] == 'U')
+                {
+                    totalVowels++;
+                }
+            }
+
+            lblVowelsOutput.Text = Convert.ToString("total are" + " " + totalVowels + " " + "vowels in the phrase");
+
         }
     }
 }

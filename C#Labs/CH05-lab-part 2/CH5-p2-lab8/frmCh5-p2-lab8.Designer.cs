@@ -38,24 +38,27 @@
             // 
             this.lblEnterPhrase.AutoSize = true;
             this.lblEnterPhrase.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblEnterPhrase.Location = new System.Drawing.Point(89, 51);
+            this.lblEnterPhrase.Location = new System.Drawing.Point(67, 41);
+            this.lblEnterPhrase.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblEnterPhrase.Name = "lblEnterPhrase";
-            this.lblEnterPhrase.Size = new System.Drawing.Size(207, 24);
+            this.lblEnterPhrase.Size = new System.Drawing.Size(167, 19);
             this.lblEnterPhrase.TabIndex = 3;
             this.lblEnterPhrase.Text = "Please enter a phase";
             // 
             // txtPhraseEnter
             // 
-            this.txtPhraseEnter.Location = new System.Drawing.Point(93, 92);
+            this.txtPhraseEnter.Location = new System.Drawing.Point(70, 75);
+            this.txtPhraseEnter.Margin = new System.Windows.Forms.Padding(2);
             this.txtPhraseEnter.Name = "txtPhraseEnter";
-            this.txtPhraseEnter.Size = new System.Drawing.Size(203, 22);
+            this.txtPhraseEnter.Size = new System.Drawing.Size(153, 20);
             this.txtPhraseEnter.TabIndex = 0;
             // 
             // btnEnter
             // 
-            this.btnEnter.Location = new System.Drawing.Point(302, 89);
+            this.btnEnter.Location = new System.Drawing.Point(227, 75);
+            this.btnEnter.Margin = new System.Windows.Forms.Padding(2);
             this.btnEnter.Name = "btnEnter";
-            this.btnEnter.Size = new System.Drawing.Size(148, 25);
+            this.btnEnter.Size = new System.Drawing.Size(111, 23);
             this.btnEnter.TabIndex = 1;
             this.btnEnter.Text = "Enter";
             this.btnEnter.UseVisualStyleBackColor = true;
@@ -65,22 +68,25 @@
             // 
             this.lblVowelsOutput.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.lblVowelsOutput.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblVowelsOutput.Location = new System.Drawing.Point(93, 145);
+            this.lblVowelsOutput.Location = new System.Drawing.Point(70, 118);
+            this.lblVowelsOutput.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblVowelsOutput.Name = "lblVowelsOutput";
-            this.lblVowelsOutput.Size = new System.Drawing.Size(357, 31);
+            this.lblVowelsOutput.Size = new System.Drawing.Size(268, 25);
             this.lblVowelsOutput.TabIndex = 2;
+            this.lblVowelsOutput.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // Form1
             // 
             this.AcceptButton = this.btnEnter;
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(600, 366);
             this.Controls.Add(this.lblVowelsOutput);
             this.Controls.Add(this.btnEnter);
             this.Controls.Add(this.txtPhraseEnter);
             this.Controls.Add(this.lblEnterPhrase);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
