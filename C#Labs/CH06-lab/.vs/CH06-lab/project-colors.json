@@ -15,7 +15,12 @@
       "ProjectGuid": "d8b6fbcd-aaea-48b4-8c4f-89a6879c3a95",
       "DisplayName": "CH06-Lab6",
       "ColorIndex": 2
+    },
+    "d3b0af5f-4a37-451a-92bf-a600e7b0d3b5": {
+      "ProjectGuid": "d3b0af5f-4a37-451a-92bf-a600e7b0d3b5",
+      "DisplayName": "CH06-Lab9",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }
