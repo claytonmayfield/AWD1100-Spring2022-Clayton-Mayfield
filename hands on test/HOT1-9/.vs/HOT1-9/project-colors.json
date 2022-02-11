@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ecf39b0d-8951-4c0e-826a-7060e6220183": {
+      "ProjectGuid": "ecf39b0d-8951-4c0e-826a-7060e6220183",
+      "DisplayName": "HOT1-9-Promblem1",
+      "ColorIndex": 0
+    },
+    "fb421822-add7-4242-9f4c-6d550e3b95fa": {
+      "ProjectGuid": "fb421822-add7-4242-9f4c-6d550e3b95fa",
+      "DisplayName": "HOT4-2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

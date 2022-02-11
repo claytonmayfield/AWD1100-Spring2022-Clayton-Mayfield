@@ -1,0 +1,8 @@
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\HOT1-9\HOT4-2\bin\Debug\HOT4-2.exe.config
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\HOT1-9\HOT4-2\bin\Debug\HOT4-2.exe
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\HOT1-9\HOT4-2\bin\Debug\HOT4-2.pdb
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\HOT1-9\HOT4-2\obj\Debug\HOT4-2.csproj.AssemblyReference.cache
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\HOT1-9\HOT4-2\obj\Debug\HOT4-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\HOT1-9\HOT4-2\obj\Debug\HOT4-2.csproj.CoreCompileInputs.cache
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\HOT1-9\HOT4-2\obj\Debug\HOT4-2.exe
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\HOT1-9\HOT4-2\obj\Debug\HOT4-2.pdb
