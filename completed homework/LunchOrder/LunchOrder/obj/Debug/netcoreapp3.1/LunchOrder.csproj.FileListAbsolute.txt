@@ -1,0 +1,17 @@
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\completed homework\LunchOrder\LunchOrder\obj\Debug\netcoreapp3.1\LunchOrder.csproj.AssemblyReference.cache
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\completed homework\LunchOrder\LunchOrder\obj\Debug\netcoreapp3.1\LunchOrder.Form1.resources
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\completed homework\LunchOrder\LunchOrder\obj\Debug\netcoreapp3.1\LunchOrder.csproj.GenerateResource.cache
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\completed homework\LunchOrder\LunchOrder\obj\Debug\netcoreapp3.1\LunchOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\completed homework\LunchOrder\LunchOrder\obj\Debug\netcoreapp3.1\LunchOrder.AssemblyInfoInputs.cache
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\completed homework\LunchOrder\LunchOrder\obj\Debug\netcoreapp3.1\LunchOrder.AssemblyInfo.cs
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\completed homework\LunchOrder\LunchOrder\obj\Debug\netcoreapp3.1\LunchOrder.csproj.CoreCompileInputs.cache
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\completed homework\LunchOrder\LunchOrder\bin\Debug\netcoreapp3.1\LunchOrder.exe
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\completed homework\LunchOrder\LunchOrder\bin\Debug\netcoreapp3.1\LunchOrder.deps.json
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\completed homework\LunchOrder\LunchOrder\bin\Debug\netcoreapp3.1\LunchOrder.runtimeconfig.json
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\completed homework\LunchOrder\LunchOrder\bin\Debug\netcoreapp3.1\LunchOrder.runtimeconfig.dev.json
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\completed homework\LunchOrder\LunchOrder\bin\Debug\netcoreapp3.1\LunchOrder.dll
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\completed homework\LunchOrder\LunchOrder\bin\Debug\netcoreapp3.1\LunchOrder.pdb
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\completed homework\LunchOrder\LunchOrder\obj\Debug\netcoreapp3.1\LunchOrder.dll
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\completed homework\LunchOrder\LunchOrder\obj\Debug\netcoreapp3.1\LunchOrder.pdb
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\completed homework\LunchOrder\LunchOrder\obj\Debug\netcoreapp3.1\LunchOrder.genruntimeconfig.cache
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\completed homework\LunchOrder\LunchOrder\obj\Debug\netcoreapp3.1\LunchOrder.Form2.resources
