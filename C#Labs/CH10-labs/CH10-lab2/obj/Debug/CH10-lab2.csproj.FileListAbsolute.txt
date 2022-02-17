@@ -1,0 +1,12 @@
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\CH10-labs\CH10-lab2\bin\Debug\CH10-lab2.exe.config
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\CH10-labs\CH10-lab2\bin\Debug\CH10-lab2.exe
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\CH10-labs\CH10-lab2\bin\Debug\CH10-lab2.pdb
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\CH10-labs\CH10-lab2\obj\Debug\CH10-lab2.csproj.AssemblyReference.cache
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\CH10-labs\CH10-lab2\obj\Debug\CH10-lab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\CH10-labs\CH10-lab2\obj\Debug\CH10_lab2.Form1.resources
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\CH10-labs\CH10-lab2\obj\Debug\CH10_lab2.frmSearchResult.resources
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\CH10-labs\CH10-lab2\obj\Debug\CH10_lab2.Properties.Resources.resources
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\CH10-labs\CH10-lab2\obj\Debug\CH10-lab2.csproj.GenerateResource.cache
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\CH10-labs\CH10-lab2\obj\Debug\CH10-lab2.csproj.CoreCompileInputs.cache
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\CH10-labs\CH10-lab2\obj\Debug\CH10-lab2.exe
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\CH10-labs\CH10-lab2\obj\Debug\CH10-lab2.pdb
