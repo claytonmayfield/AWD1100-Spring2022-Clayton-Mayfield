@@ -1,0 +1,12 @@
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\HOT10-11\HOT10-11\bin\Debug\HOT10-11.exe.config
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\HOT10-11\HOT10-11\bin\Debug\HOT10-11.exe
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\HOT10-11\HOT10-11\bin\Debug\HOT10-11.pdb
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\HOT10-11\HOT10-11\obj\Debug\HOT10-11.csproj.AssemblyReference.cache
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\HOT10-11\HOT10-11\obj\Debug\HOT10-11.csproj.SuggestedBindingRedirects.cache
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\HOT10-11\HOT10-11\obj\Debug\HOT10_11.frmCardStore.resources
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\HOT10-11\HOT10-11\obj\Debug\HOT10_11.frmSplashScreen.resources
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\HOT10-11\HOT10-11\obj\Debug\HOT10_11.Properties.Resources.resources
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\HOT10-11\HOT10-11\obj\Debug\HOT10-11.csproj.GenerateResource.cache
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\HOT10-11\HOT10-11\obj\Debug\HOT10-11.csproj.CoreCompileInputs.cache
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\HOT10-11\HOT10-11\obj\Debug\HOT10-11.exe
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\HOT10-11\HOT10-11\obj\Debug\HOT10-11.pdb
