@@ -10,7 +10,12 @@
       "ProjectGuid": "5773c54a-c87e-4aac-a5c0-3efd22dff762",
       "DisplayName": "Ch12 lab6",
       "ColorIndex": 1
+    },
+    "21521064-78a4-44cc-8d31-c8496c92c993": {
+      "ProjectGuid": "21521064-78a4-44cc-8d31-c8496c92c993",
+      "DisplayName": "Hotel Conferences",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

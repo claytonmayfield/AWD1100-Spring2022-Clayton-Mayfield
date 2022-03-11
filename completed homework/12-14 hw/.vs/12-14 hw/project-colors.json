@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "50cb1241-d6ad-42e5-9282-b98e93db9fd3": {
+      "ProjectGuid": "50cb1241-d6ad-42e5-9282-b98e93db9fd3",
+      "DisplayName": "12-1-HW",
+      "ColorIndex": 0
+    },
+    "efd6c081-7f9b-4c84-847c-6fb8ac8af1d9": {
+      "ProjectGuid": "efd6c081-7f9b-4c84-847c-6fb8ac8af1d9",
+      "DisplayName": "14-1 Hw",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

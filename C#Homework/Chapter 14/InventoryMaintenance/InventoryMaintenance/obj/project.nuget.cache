@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Or2LOw9AqPcBid45ql4jRe2kmd4R1GiPFT2gvXwDiF50d5uT08z0Jvzovt56E8VJ8SZD9nTjdS/h9CXzRPlkLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cpm20\\OneDrive\\Desktop\\AwdRepo\\AWD1100-Repo\\C#Homework\\Chapter 14\\InventoryMaintenance\\InventoryMaintenance\\InventoryMaintenanceHw14.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cpm20\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\cpm20\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\cpm20\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\cpm20\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

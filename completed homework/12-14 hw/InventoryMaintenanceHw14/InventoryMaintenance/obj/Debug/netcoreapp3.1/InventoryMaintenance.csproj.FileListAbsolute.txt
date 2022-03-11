@@ -1,0 +1,8 @@
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\completed homework\12-14 hw\InventoryMaintenanceHw14\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.csproj.AssemblyReference.cache
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\completed homework\12-14 hw\InventoryMaintenanceHw14\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.frmInvMaint.resources
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\completed homework\12-14 hw\InventoryMaintenanceHw14\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.frmNewItem.resources
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\completed homework\12-14 hw\InventoryMaintenanceHw14\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.csproj.GenerateResource.cache
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\completed homework\12-14 hw\InventoryMaintenanceHw14\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\completed homework\12-14 hw\InventoryMaintenanceHw14\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.AssemblyInfoInputs.cache
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\completed homework\12-14 hw\InventoryMaintenanceHw14\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.AssemblyInfo.cs
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\completed homework\12-14 hw\InventoryMaintenanceHw14\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.csproj.CoreCompileInputs.cache
