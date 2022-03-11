@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "18dd543e-4ecc-4b0d-9b6f-c593d8b48dbc": {
+      "ProjectGuid": "18dd543e-4ecc-4b0d-9b6f-c593d8b48dbc",
+      "DisplayName": "LB_Letters",
+      "ColorIndex": 0
+    },
+    "0ad2da2e-81d6-4b51-a34e-1c5331e21576": {
+      "ProjectGuid": "0ad2da2e-81d6-4b51-a34e-1c5331e21576",
+      "DisplayName": "LB_Photos",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

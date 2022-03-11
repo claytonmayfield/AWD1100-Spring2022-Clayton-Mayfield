@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LB_Photos", "LB_Photos\LB_Photos.csproj", "{0AD2DA2E-81D6-4B51-A34E-1C5331E21576}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LB_Letters", "LB_Letters\LB_Letters.csproj", "{18DD543E-4ECC-4B0D-9B6F-C593D8B48DBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AD2DA2E-81D6-4B51-A34E-1C5331E21576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD2DA2E-81D6-4B51-A34E-1C5331E21576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD2DA2E-81D6-4B51-A34E-1C5331E21576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD2DA2E-81D6-4B51-A34E-1C5331E21576}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18DD543E-4ECC-4B0D-9B6F-C593D8B48DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18DD543E-4ECC-4B0D-9B6F-C593D8B48DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18DD543E-4ECC-4B0D-9B6F-C593D8B48DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18DD543E-4ECC-4B0D-9B6F-C593D8B48DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A5961B7-86B3-489E-88C4-AAC61BACAC24}
+	EndGlobalSection
+EndGlobal

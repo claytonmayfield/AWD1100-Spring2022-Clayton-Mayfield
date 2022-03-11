@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "55ace4bb-3189-4919-ac71-1526f09c20b8": {
+      "ProjectGuid": "55ace4bb-3189-4919-ac71-1526f09c20b8",
+      "DisplayName": "LB1 FoodOrder",
+      "ColorIndex": 0
+    },
+    "5773c54a-c87e-4aac-a5c0-3efd22dff762": {
+      "ProjectGuid": "5773c54a-c87e-4aac-a5c0-3efd22dff762",
+      "DisplayName": "Ch12 lab6",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
