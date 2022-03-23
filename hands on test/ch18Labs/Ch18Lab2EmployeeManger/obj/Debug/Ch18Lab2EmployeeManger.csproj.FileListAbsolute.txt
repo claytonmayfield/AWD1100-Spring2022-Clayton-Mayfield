@@ -1,0 +1,14 @@
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\ch18Labs\Ch18Lab2EmployeeManger\obj\Debug\Ch18Lab2EmployeeManger.csproj.AssemblyReference.cache
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\ch18Labs\Ch18Lab2EmployeeManger\obj\Debug\Ch18Lab2EmployeeManger.csproj.SuggestedBindingRedirects.cache
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\ch18Labs\Ch18Lab2EmployeeManger\obj\Debug\Ch18Lab2EmployeeManger.Form1.resources
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\ch18Labs\Ch18Lab2EmployeeManger\obj\Debug\Ch18Lab2EmployeeManger.Properties.Resources.resources
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\ch18Labs\Ch18Lab2EmployeeManger\obj\Debug\Ch18Lab2EmployeeManger.csproj.GenerateResource.cache
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\ch18Labs\Ch18Lab2EmployeeManger\obj\Debug\Ch18Lab2EmployeeManger.csproj.CoreCompileInputs.cache
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\ch18Labs\Ch18Lab2EmployeeManger\bin\Debug\Ch18Lab2EmployeeManger.exe.config
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\ch18Labs\Ch18Lab2EmployeeManger\bin\Debug\Ch18Lab2EmployeeManger.exe
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\ch18Labs\Ch18Lab2EmployeeManger\bin\Debug\Ch18Lab2EmployeeManger.pdb
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\ch18Labs\Ch18Lab2EmployeeManger\bin\Debug\LINQLibary.dll
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\ch18Labs\Ch18Lab2EmployeeManger\bin\Debug\LINQLibary.pdb
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\ch18Labs\Ch18Lab2EmployeeManger\obj\Debug\Ch18Lab2EmployeeManger.csproj.CopyComplete
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\ch18Labs\Ch18Lab2EmployeeManger\obj\Debug\Ch18Lab2EmployeeManger.exe
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\hands on test\ch18Labs\Ch18Lab2EmployeeManger\obj\Debug\Ch18Lab2EmployeeManger.pdb

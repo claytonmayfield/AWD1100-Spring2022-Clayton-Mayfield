@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cbfb4307-0e33-4cb4-bc68-442c6be785b1": {
+      "ProjectGuid": "cbfb4307-0e33-4cb4-bc68-442c6be785b1",
+      "DisplayName": "CH18Lab1ConsoleApp",
+      "ColorIndex": 0
+    },
+    "f2b75ec6-136d-4c84-b147-dbf12643b33f": {
+      "ProjectGuid": "f2b75ec6-136d-4c84-b147-dbf12643b33f",
+      "DisplayName": "LINQLibary",
+      "ColorIndex": 1
+    },
+    "35e34eca-41a5-4e33-a301-390c6da79908": {
+      "ProjectGuid": "35e34eca-41a5-4e33-a301-390c6da79908",
+      "DisplayName": "CH18SongTittles",
+      "ColorIndex": 2
+    },
+    "8caa6b5b-51c3-44fd-b5bf-e40e24e4d235": {
+      "ProjectGuid": "8caa6b5b-51c3-44fd-b5bf-e40e24e4d235",
+      "DisplayName": "Ch18SongList",
+      "ColorIndex": 3
+    },
+    "39a43f18-d11e-4f39-ab54-bc0ed8d4aa4f": {
+      "ProjectGuid": "39a43f18-d11e-4f39-ab54-bc0ed8d4aa4f",
+      "DisplayName": "Ch18Lab2EmployeeManger",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
