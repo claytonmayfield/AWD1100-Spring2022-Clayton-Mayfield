@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseOrders", "DatabaseOrders\DatabaseOrders.csproj", "{C1042737-CCFC-42EA-B61F-3AEBB69FC13A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1042737-CCFC-42EA-B61F-3AEBB69FC13A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1042737-CCFC-42EA-B61F-3AEBB69FC13A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1042737-CCFC-42EA-B61F-3AEBB69FC13A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1042737-CCFC-42EA-B61F-3AEBB69FC13A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D36604C9-3AA2-4966-97FB-1A80CDB3297E}
+	EndGlobalSection
+EndGlobal

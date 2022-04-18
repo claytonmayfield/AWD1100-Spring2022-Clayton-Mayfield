@@ -1,0 +1,15 @@
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\MysqulTester\DatabaseOrders\bin\Debug\DatabaseOrders.exe.config
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\MysqulTester\DatabaseOrders\bin\Debug\DatabaseOrders.exe
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\MysqulTester\DatabaseOrders\bin\Debug\DatabaseOrders.pdb
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\MysqulTester\DatabaseOrders\obj\Debug\DatabaseOrders.csproj.AssemblyReference.cache
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\MysqulTester\DatabaseOrders\obj\Debug\DatabaseOrders.csproj.SuggestedBindingRedirects.cache
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\MysqulTester\DatabaseOrders\obj\Debug\DatabaseOrders.Form1.resources
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\MysqulTester\DatabaseOrders\obj\Debug\DatabaseOrders.frmSplashScreen.resources
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\MysqulTester\DatabaseOrders\obj\Debug\DatabaseOrders.Properties.Resources.resources
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\MysqulTester\DatabaseOrders\obj\Debug\DatabaseOrders.csproj.GenerateResource.cache
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\MysqulTester\DatabaseOrders\obj\Debug\DatabaseOrders.csproj.CoreCompileInputs.cache
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\MysqulTester\DatabaseOrders\obj\Debug\DatabaseOrders.exe
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\MysqulTester\DatabaseOrders\obj\Debug\DatabaseOrders.pdb
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\MysqulTester\DatabaseOrders\bin\Debug\SalesOrders.mdf
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\MysqulTester\DatabaseOrders\bin\Debug\SalesOrders_log.ldf
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\MysqulTester\DatabaseOrders\obj\Debug\DatabaseOrders.frmProducts.resources

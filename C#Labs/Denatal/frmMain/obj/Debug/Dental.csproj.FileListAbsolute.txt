@@ -1,0 +1,17 @@
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\Denatal\frmMain\bin\Debug\frmMain.exe.config
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\Denatal\frmMain\bin\Debug\frmMain.exe
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\Denatal\frmMain\bin\Debug\frmMain.pdb
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\Denatal\frmMain\obj\Debug\Dental.csproj.AssemblyReference.cache
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\Denatal\frmMain\obj\Debug\Dental.csproj.SuggestedBindingRedirects.cache
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\Denatal\frmMain\obj\Debug\frmMain.frmAppointmentEdit.resources
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\Denatal\frmMain\obj\Debug\frmMain.frmAppointmentNew.resources
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\Denatal\frmMain\obj\Debug\frmMain.frmAppointmentsShow.resources
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\Denatal\frmMain\obj\Debug\frmMain.frmMain.resources
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\Denatal\frmMain\obj\Debug\frmMain.frmPatientEdit.resources
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\Denatal\frmMain\obj\Debug\frmMain.frmPatientNew.resources
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\Denatal\frmMain\obj\Debug\frmMain.frmPatientsShow.resources
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\Denatal\frmMain\obj\Debug\frmMain.Properties.Resources.resources
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\Denatal\frmMain\obj\Debug\Dental.csproj.GenerateResource.cache
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\Denatal\frmMain\obj\Debug\Dental.csproj.CoreCompileInputs.cache
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\Denatal\frmMain\obj\Debug\frmMain.exe
+C:\Users\cpm20\OneDrive\Desktop\AwdRepo\AWD1100-Repo\C#Labs\Denatal\frmMain\obj\Debug\frmMain.pdb
