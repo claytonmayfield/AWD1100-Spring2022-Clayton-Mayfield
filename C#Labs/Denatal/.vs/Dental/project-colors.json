@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "640c63bc-c1cb-4511-9931-eeeaec7c56f8": {
+      "ProjectGuid": "640c63bc-c1cb-4511-9931-eeeaec7c56f8",
+      "DisplayName": "Dental",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
