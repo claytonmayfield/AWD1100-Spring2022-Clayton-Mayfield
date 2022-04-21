@@ -1,0 +1,21 @@
+header {
+    background-color: antiquewhite;
+    border: black thin solid;
+    background: url("../img/clouds.jpeg") top center;
+    background-repeat: 
+}
+main {
+    background-color: antiquewhite;
+    border: black thin solid;
+}
+footer{
+    background-color: antiquewhite;
+    border: black thin solid;
+}
+.body {
+    background-color:;
+}
+#bottom {
+    display:flex;
+    flex-direction: row;
+}

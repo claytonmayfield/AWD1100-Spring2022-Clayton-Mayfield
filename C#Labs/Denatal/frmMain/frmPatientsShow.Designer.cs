@@ -28,10 +28,15 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.btnEditPatient = new System.Windows.Forms.Button();
             this.btnDeletePatient = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            
+            this.gentleDentalDataSetBindingSource = new System.Windows.Forms.BindingSource(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gentleDentalDataSet)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gentleDentalDataSetBindingSource)).BeginInit();
             this.SuspendLayout();
             // 
             // btnEditPatient
@@ -59,11 +64,26 @@
             // 
             // dataGridView1
             // 
+            this.dataGridView1.AllowUserToAddRows = false;
+            this.dataGridView1.AllowUserToDeleteRows = false;
+            this.dataGridView1.AutoGenerateColumns = false;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.DataSource = this.gentleDentalDataSetBindingSource;
             this.dataGridView1.Location = new System.Drawing.Point(49, 77);
             this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.ReadOnly = true;
             this.dataGridView1.Size = new System.Drawing.Size(702, 352);
             this.dataGridView1.TabIndex = 2;
+            // 
+            // gentleDentalDataSet
+            // 
+            this.gentleDentalDataSet.DataSetName = "GentleDentalDataSet";
+            this.gentleDentalDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
+            // gentleDentalDataSetBindingSource
+            // 
+            this.gentleDentalDataSetBindingSource.DataSource = this.gentleDentalDataSet;
+            this.gentleDentalDataSetBindingSource.Position = 0;
             // 
             // frmPatientsShow
             // 
@@ -79,6 +99,8 @@
             this.Text = "Patients Main Form";
             this.Load += new System.EventHandler(this.frmPatientsShow_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gentleDentalDataSet)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gentleDentalDataSetBindingSource)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -88,5 +110,7 @@
         private System.Windows.Forms.Button btnEditPatient;
         private System.Windows.Forms.Button btnDeletePatient;
         private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.BindingSource gentleDentalDataSetBindingSource;
+        private frmMain.GentleDentalDataSet gentleDentalDataSet;
     }
 }
