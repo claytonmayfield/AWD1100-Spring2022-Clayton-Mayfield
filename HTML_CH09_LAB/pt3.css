@@ -1,0 +1,330 @@
+
+body {
+  background-color: lightgrey;
+}
+
+.header-logo {
+  width: 8%;
+  height: auto;
+}
+
+.header {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
+
+.header-h1 {
+  margin-bottom: 0.5em;
+}
+
+.header-p {
+  margin: 0;
+}
+
+.navbar-menu {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  list-style: none;
+  border: thin solid black;
+  padding: 0;
+}
+
+.nav-item {
+  display: block;
+  padding: 0.8em;
+}
+
+.nav-link:link,
+.nav-link:visited,
+.nav-link:hover,
+.nav-link:active {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+}
+
+.top1 {
+  width: 30%;
+}
+
+.top2 {
+  height: 40%;
+  margin-bottom: 30px;
+}
+
+.top3 {
+  height: 58%;
+  display: flex;
+  margin-top: 0;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.mainimg {
+  width: 80%;
+  height: auto;
+}
+
+.top3-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.top3-img {
+  width: 40%;
+  height: auto;
+}
+
+.top3-para {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.top3-link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: black;
+  justify-content: flex-end;
+}
+
+.footer-address {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.footer-copyright {
+  display: flex;
+  justify-content: flex-end;
+}
+
+footer {
+  background-color: grey;
+}
+
+.top2-3 {
+  width: 70%;
+}
+
+@media screen and (min-width:2500px){
+  .nav-link:link,
+.nav-link:visited,
+.nav-link:hover,
+.nav-link:active{
+  font-size: 50px;
+}
+  .header-h1 {
+    font-size: 70px;
+  }
+  .header-p {
+    font-size: 50px;
+  }
+  .header-logo {
+    width: 12%;
+  }
+  .top2-h1 {
+    font-size: 70px;
+  }
+  .top2-p {
+    font-size: 50px;
+  }
+  .top3-h1 {
+    font-size: 70px;
+  }
+  .top3-para {
+    font-size: 50px;
+  }
+  .top3-img {
+    width: 250px;
+    height: 280px;
+  }
+  .top3-link {
+    font-size: 50px;
+  }
+  address {
+    font-size: 50px;
+  }
+  .footer-copyright {
+    font-size: 40px;
+  }
+}
+@media screen and (max-width:900px) {
+  .navbar-menu {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .nav-item {
+    width: 78%;
+    text-align: center;
+  }
+
+  .navbar {
+    display: flex;
+    justify-content: center;
+  }
+
+  .header {
+    display: flex;
+    justify-content: center;
+  }
+
+  .header-h1 {
+    font-size: 3em;
+  }
+
+  .header-logo {
+    width: 15%;
+  }
+
+  .top3 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .top2-h1 {
+    text-align: center;
+    font-size: 3em;
+  }
+
+  .mainimg {
+    padding-left: 1.5em;
+  }
+
+  .top3-h1 {
+    font-size: 3em;
+  }
+
+  .top2-p {
+    font-size: 20px;
+  }
+
+  .top3-para {
+    font-size: 20px;
+  }
+
+  .top3-link {
+    font-size: 20px;
+  }
+
+  .footer-address {
+    font-size: 20px;
+  }
+
+  .footer-copyright {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width:600px) {
+  .header-h1 {
+    font-size: 20px;
+  }
+
+  .nav-link:link,
+  .nav-link:visited,
+  .nav-link:hover,
+  .nav-link:active {
+    font-size: 15px;
+  }
+
+  .top3-img {
+    width: 100px;
+    height: 100px;
+  }
+
+  .navbar-menu {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .navbar {
+    display: flex;
+    justify-content: center;
+  }
+
+  .header {
+    display: flex;
+    justify-content: center;
+  }
+
+  .header-logo {
+    width: 10%;
+  }
+
+  .top3 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .top2-h1 {
+    text-align: center;
+    font-size: 30px;
+  }
+
+  .top2-p {
+    font-size: 15px;
+  }
+
+  .top3-h1 {
+    font-size: 30px;
+  }
+
+  .top3-para {
+    font-size: 15px;
+  }
+
+  address {
+    font-size: 15px;
+  }
+
+  .footer-copyright {
+    font-size: 10px;
+  }
+
+  .top3-link {
+    font-size: 15px;
+  }
+
+  .mainimg {
+    padding-left: 1em;
+  }
+}
+  @media screen and (max-width:400px) {
+    .header-h1 {
+      font-size: 20px;
+    }
+
+    .footer-copyright {
+      font-size: 12px;
+    }
+
+   
+    }

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script defer src="convert.js"></script>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+    <title>Hello, world!</title>
+</head>
+
+<body>
+    <h1 class="text-center"> Temperature Converter</h1>
+    <div class="container">
+        <form action="" id="frmConvert">
+            <div class="form-check">
+                <input class="form-check-input" type="radio" name="chkDegrees" id="fahToCei">
+                <label class="form-check-label" for="flexRadioDefault1">
+                    fahrenheit to celsius
+                </label>
+            </div>
+            <div class="form-check mb-2">
+                <input class="form-check-input" type="radio" name="chkDegrees" id="ceiToFah" checked>
+                <label class="form-check-label" id="flexRadioDefault2" for="flexRadioDefault2">
+                    celsius to fahrenheit
+                </label>
+            </div>
+            <div class="mb-2">
+                <label id="degree_label_1">Enter F degrees:</label>
+                <input type="text" id="degrees_entered" "><br>
+        </div>
+        <div class=" mb-2">
+                <label id="degree_label_2"> degrees converted :</label>
+                <input type="text" id="degrees_computed" disabled><br>
+            </div>
+            <div class="mb-2">
+                <input class="" type="button" id="convert" value="Convert" />
+            </div>
+            <p id="invalid"></p>
+        </form>
+    </div>
+
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous">
+    </script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
+    -->
+</body>
+
+</html>
