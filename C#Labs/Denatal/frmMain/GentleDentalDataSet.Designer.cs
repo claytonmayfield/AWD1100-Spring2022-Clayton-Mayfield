@@ -3000,7 +3000,7 @@ SELECT PatID, PatName, PatEmail, PatPhone FROM Patients WHERE (PatID = @PatID)";
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
         [global::System.ComponentModel.Design.HelpKeywordAttribute("vs.data.TableAdapter")]
-        public virtual int Update(global::System.Data.DataRow dataRow) {
+        public virtual int Update(int patId, global::System.Data.DataRow dataRow) {
             return this.Adapter.Update(new global::System.Data.DataRow[] {
                         dataRow});
         }
@@ -3056,7 +3056,7 @@ SELECT PatID, PatName, PatEmail, PatPhone FROM Patients WHERE (PatID = @PatID)";
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
         [global::System.ComponentModel.Design.HelpKeywordAttribute("vs.data.TableAdapter")]
         [global::System.ComponentModel.DataObjectMethodAttribute(global::System.ComponentModel.DataObjectMethodType.Insert, true)]
-        public virtual int Insert(string PatName, string PatEmail, string PatPhone) {
+        public virtual int Insert(int patID, string PatName, string PatEmail, string PatPhone) {
             if ((PatName == null)) {
                 throw new global::System.ArgumentNullException("PatName");
             }
@@ -3154,7 +3154,7 @@ SELECT PatID, PatName, PatEmail, PatPhone FROM Patients WHERE (PatID = @PatID)";
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
         [global::System.ComponentModel.Design.HelpKeywordAttribute("vs.data.TableAdapter")]
         [global::System.ComponentModel.DataObjectMethodAttribute(global::System.ComponentModel.DataObjectMethodType.Update, true)]
-        public virtual int Update(string PatName, string PatEmail, string PatPhone, int Original_PatID, string Original_PatName, string Original_PatEmail, string Original_PatPhone) {
+        public virtual int Update(int patId, string PatName, string PatEmail, string PatPhone, int Original_PatID, string Original_PatName, string Original_PatEmail, string Original_PatPhone) {
             return this.Update(PatName, PatEmail, PatPhone, Original_PatID, Original_PatName, Original_PatEmail, Original_PatPhone, Original_PatID);
         }
         
